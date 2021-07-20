@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacky Chen</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles</h3>
+<h3 align="center">A passionate Full Stack Developer from Los Angeles</h3>
 
 - 🔭 I’m currently working on [Cracking the Coding Interview](https://github.com/jackychen19/CtCI_Book_Club)
 
