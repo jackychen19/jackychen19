@@ -1,8 +1,6 @@
 <h1 align="center">Hi There, I'm Jacky! 👋</h1>
 <h3 align="center">Full Stack Developer from Los Angeles</h3>
 
-- 🔭  I’m currently working on [Cracking the Coding Interview](https://github.com/jackychen19/CtCI_Book_Club)
-- 🌱  I’m currently learning **Facial Recognition Technology, AI, Machine Learning**
 - 💬  Ask me about **Javascript (ES6), React.js, Node.js, Next.js**
 - 📫  How to reach me: **jacky.chen0319@gmail.com**
 - ⚡  Fun fact: **I like to DJ!**
