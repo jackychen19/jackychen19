@@ -3,7 +3,7 @@
 
 - 💬  Ask me about **Javascript (ES6), React.js, Node.js, Next.js**
 - 📫  How to reach me: **jacky.chen0319@gmail.com**
-- ⚡  Fun fact: **I like to DJ!**
+- ⚡  Hobbies: **DJ, powerlifting, cooking, reading, traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
