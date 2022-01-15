@@ -1,9 +1,10 @@
 <h1 align="center">Hi There, I'm Jacky! 👋</h1>
-<h3 align="center">Full Stack Developer from Los Angeles</h3>
+<h3 align="center">I'm Full Stack Developer from Los Angeles.</h3>
+<h4>I'm currently looking for roles in Full Stack, Frontend, or Backend. Please feel free to reach out to me for further inquiries!</h4>
 
 - 💬  Ask me about **Javascript (ES6), React.js, Node.js, Next.js**
 - 📫  How to reach me: **jacky.chen0319@gmail.com**
-- ⚡  Hobbies: **DJ, powerlifting, cooking, reading, traveling**
+- ⚡  Hobbies: **DJ, powerlifting / bodybuilding, cooking, reading, traveling**
 
 <h3 align="left">Connect with me!</h3>
 <a target="_blank" href="mailto: jacky.chen0319@gmail.com"/>
